@@ -27,7 +27,7 @@ Then open http://localhost:5173
 
 * React + TypeScript
 * Vite
-* Plain CSS (no UI libraries, wrote everything from scratch)
+* Plain CSS 
 
 ## What I built for the required features
 
