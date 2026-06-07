@@ -1,5 +1,7 @@
 # PRODJET Waitlist Form
 
+![frontend](frontend.png)
+
 This is my submission for the PRODJET frontend intern coding assignment. The task was to build a conditional waitlist form where different fields show up based on what type of user you are — Student, Brand, or College.
 
 ## What it does
@@ -62,16 +64,9 @@ src/
 ├── App.tsx
 ├── main.tsx
 └── styles.css
-## Output
 
 
-### frontend.png
 
-Combined output showcasing all three screens:
 
-- User Type Selection
-- Student Details Form
-- Registration Success Screen
 
-![frontend](./frontend.png)
 ```
